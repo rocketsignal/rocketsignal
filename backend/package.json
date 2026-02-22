@@ -1,0 +1,10 @@
+{
+  "name": "rocketsignal-backend",
+  "version": "1.0.0",
+  "description": "RocketSignal server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
